@@ -1,10 +1,4 @@
-"""Menu-driven Student Information System.
 
-Options:
-1) Add student details: Name, Roll Number, Department, CGPA
-2) Display all stored students
-3) Exit
-"""
 
 
 def _prompt_nonempty(prompt: str) -> str:
